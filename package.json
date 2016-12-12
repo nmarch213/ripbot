@@ -1,0 +1,27 @@
+{
+  "name": "ripbot",
+  "version": "1.0.0",
+  "description": "This is a bot used for a discord channel to run commands.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmarch213/ripbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Nicholas March",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmarch213/ripbot/issues"
+  },
+  "homepage": "https://github.com/nmarch213/ripbot#readme",
+  "dependencies": {
+    "discordie": "^0.10.0",
+    "nodemon": "^1.11.0"
+  }
+}
