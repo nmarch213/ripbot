@@ -22,6 +22,8 @@
   "homepage": "https://github.com/nmarch213/ripbot#readme",
   "dependencies": {
     "discordie": "^0.10.0",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",
+    "request": "^2.79.0",
+    "twitch-api": "^0.4.5"
   }
 }
